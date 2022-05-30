@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.ff7b8a9c.js",
-    "index.html": "/index.html",
-    "main.ff7b8a9c.js.map": "/static/js/main.ff7b8a9c.js.map"
+    "main.js": "/e-zone/static/js/main.ff7b8a9c.js",
+    "index.html": "/e-zone/index.html",
+    "main.ff7b8a9c.js.map": "/e-zone/static/js/main.ff7b8a9c.js.map"
   },
   "entrypoints": [
     "static/js/main.ff7b8a9c.js"

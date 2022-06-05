@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/e-zone/static/js/main.ff7b8a9c.js",
+    "main.js": "/e-zone/static/js/main.d78755e2.js",
     "index.html": "/e-zone/index.html",
-    "main.ff7b8a9c.js.map": "/e-zone/static/js/main.ff7b8a9c.js.map"
+    "main.d78755e2.js.map": "/e-zone/static/js/main.d78755e2.js.map"
   },
   "entrypoints": [
-    "static/js/main.ff7b8a9c.js"
+    "static/js/main.d78755e2.js"
   ]
 }
